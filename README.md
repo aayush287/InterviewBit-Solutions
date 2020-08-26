@@ -1,5 +1,5 @@
 <p align="center">
-    <img height=85 src="https://github.com/aayush287/InterviewBit-Solutions/blob/master/ib-logo-square.png">
+    <img height=200 src="https://github.com/aayush287/InterviewBit-Solutions/blob/master/ib-logo-square.png">
 </p>
 
 
