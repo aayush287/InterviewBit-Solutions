@@ -7,7 +7,7 @@ Solutions are coded using Python 3
 
 # Arrays
 
-| Sr. No.|                                                         Problem                                                                                                                                                   Solution                                                                                         |
+| Sr. No.|                                                         Problem                           |                                                                                                                        Solution                                                                                         |
 |:------:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |   1    | [Min Steps in infinite grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/)                             | [solution.py](https://github.com/aayush287/InterviewBit-Solutions/blob/master/Arrays/min_step_infinite_grid.py)                                                                        |
 |   2    | [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/)                                                 | [solution.py](https://github.com/aayush287/InterviewBit-Solutions/blob/master/Arrays/add_one_to_number.py)                                                                               |
